@@ -7,7 +7,7 @@ It is coded in C++ using Code::Blocks IDE, so I upload the IDE files.
 ## Running the app
 a) You can directly download the binary for Linux and execute it.
 
-b) If you want to build the project, just run in a terminal:\n
+b) If you want to build the project, just run in a terminal:<br />
 `g++ -o Entropy++ main.cpp`
 
 c) Or you can add the project to your Code::Blocks workspace and compile it from there.
