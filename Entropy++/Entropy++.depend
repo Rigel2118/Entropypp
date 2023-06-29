@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1685234485 source:/home/olalderh/Documents/C/Entropy v0.1.0/Entropy++/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"powers.h"
+	<vector>
+
+1685045840 /home/olalderh/Documents/C/Entropy v0.1.0/Entropy++/powers.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1685502432 source:/home/olalderh/Documents/Documents/C++ Projects/Entropy v0.1.0/Entropy++/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"powers.h"
+	<vector>
+
+1685310818 /home/olalderh/Documents/Documents/C++ Projects/Entropy v0.1.0/Entropy++/powers.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1687575836 source:/home/olalderh/Applications/C++ Projects/Entropy v0.1.0/Entropy++/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	"engine.h"
+	<vector>
+
+1685310818 /home/olalderh/Applications/C++ Projects/Entropy v0.1.0/Entropy++/powers.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1687577365 /home/olalderh/Applications/C++ Projects/Entropy v0.1.0/Entropy++/dependencies.h
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	<vector>
+
+1687576638 /home/olalderh/Applications/C++ Projects/Entropy v0.1.0/Entropy++/variables.h
+	<vector>
+
+1687575752 /home/olalderh/Applications/C++ Projects/Entropy v0.1.0/Entropy++/engine.h
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	<vector>
+
+1687674860 source:/home/olalderh/Applications/C++ Projects/Entropy++/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<chrono>
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	"engine.h"
+
+1687671665 /home/olalderh/Applications/C++ Projects/Entropy++/powers.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1688001308 /home/olalderh/Applications/C++ Projects/Entropy++/dependencies.h
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	<vector>
+	<chrono>
+	<cmath>
+
+1687638310 /home/olalderh/Applications/C++ Projects/Entropy++/variables.h
+	<vector>
+
+1688001308 /home/olalderh/Applications/C++ Projects/Entropy++/engine.h
+	"powers.h"
+	"dependencies.h"
+	"variables.h"
+	<vector>
+
