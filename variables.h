@@ -14,5 +14,6 @@ unsigned long long lim_m; // Limit of i-Div testing
 char repeat; // Try again from menu
 
 vector<unsigned long long> primeLs {2}; // Prime storage
+vector<unsigned long long> factorLs {}; // Prime storage
 
 #endif // VARIABLES_H_INCLUDED

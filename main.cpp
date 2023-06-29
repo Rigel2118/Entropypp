@@ -21,7 +21,8 @@ int main() {
     // Prompt
     repeat = 'y';
     while(repeat=='y') {
-
+		// Clear factor list
+		factorLs.clear();
 		// Get number from user
         getn();
 

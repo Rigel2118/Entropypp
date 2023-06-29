@@ -13,7 +13,7 @@ using namespace std;
 unsigned long long reduce(unsigned long long x, unsigned long long y) {
     while(x%y==0) {
         x/=y;
-        cout << "--> " << y << endl;
+        factorLs.push_back(y);
     }
     return x;
 }
@@ -29,16 +29,13 @@ bool isprime(unsigned long long x) {
     unsigned long long lim_x = (unsigned long long)wsqrt(x);
     for(j=0;primeLs.at(j)<=lim_x;j++) {
         if(x%primeLs.at(j)==0) {
-            return false;
+            pass=false;
+            break;
         }
     }
     if(pass) {
         primeLs.push_back(x);
-        return true;auto t3 = chrono::high_resolution_clock::now();
-    //updatem();
-    auto t4 = chrono::high_resolution_clock::now();
-	chrono::duration<double, std::milli> ms_double = t4 - t3;
-	cout << "Finished in " << ms_double.count() << " ms. Lim is " << lim_m << endl;
+        return true;
     } else {
         return false;
     }

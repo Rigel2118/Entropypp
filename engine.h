@@ -23,9 +23,12 @@ void engine() {
 
     // m-Div test (final factor)
     if(m!=1) {
-        cout << "--> " << m << endl;
+        factorLs.push_back(m);
     }
 
+	for(j=0;j<factorLs.size();j++) {
+		cout << "--> " << factorLs.at(j) << endl;
+	}
 }
 
 #endif // ENGINE_H_INCLUDED

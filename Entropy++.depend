@@ -69,7 +69,7 @@
 	<stdlib.h>
 	<string.h>
 
-1688001308 /home/olalderh/Applications/C++ Projects/Entropy++/dependencies.h
+1688006557 /home/olalderh/Applications/C++ Projects/Entropy++/dependencies.h
 	"powers.h"
 	"dependencies.h"
 	"variables.h"
@@ -77,10 +77,10 @@
 	<chrono>
 	<cmath>
 
-1687638310 /home/olalderh/Applications/C++ Projects/Entropy++/variables.h
+1688006230 /home/olalderh/Applications/C++ Projects/Entropy++/variables.h
 	<vector>
 
-1688001308 /home/olalderh/Applications/C++ Projects/Entropy++/engine.h
+1688006240 /home/olalderh/Applications/C++ Projects/Entropy++/engine.h
 	"powers.h"
 	"dependencies.h"
 	"variables.h"
