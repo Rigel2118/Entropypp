@@ -1,11 +1,10 @@
 #ifndef DEPENDENCIES_H_INCLUDED
 #define DEPENDENCIES_H_INCLUDED
-#include "powers.h"
-#include "dependencies.h"
+
 #include "variables.h"
+#include "sqrt.h"
 #include <vector>
-#include <chrono>
-#include <cmath>
+
 
 using namespace std;
 

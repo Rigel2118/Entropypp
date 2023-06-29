@@ -1,6 +1,7 @@
 #ifndef ENGINE_H_INCLUDED
 #define ENGINE_H_INCLUDED
-#include "powers.h"
+
+#include "sqrt.h"
 #include "dependencies.h"
 #include "variables.h"
 #include <vector>
@@ -25,6 +26,8 @@ void engine() {
     if(m!=1) {
         factorLs.push_back(m);
     }
+
+    // At this point you can export the values of factorLs
 
 	for(j=0;j<factorLs.size();j++) {
 		cout << "--> " << factorLs.at(j) << endl;
