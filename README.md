@@ -17,4 +17,4 @@ In console, just enter any integer greater than 1 and up to 16 digits in length 
 
 Prime factors are stored in a vector called `factorLs`, so if you want to export or use the data into your own projects, there is a comment under engine.h file so you can access the data.
 
-If you want to see how this works, the code is commented and feel free to take a look.
+The code is commented so feel free to take a look.
