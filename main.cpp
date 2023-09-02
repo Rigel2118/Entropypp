@@ -7,6 +7,7 @@
 #include "dependencies.h"
 #include "variables.h"
 #include "engine.h"
+#include <cstdint>
 
 using namespace std;
 

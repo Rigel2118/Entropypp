@@ -6,12 +6,13 @@
 #include <vector>
 #include <fstream>
 #include <chrono>
+#include <cstdint>
 
 using namespace std;
 
 // Print a line
 void line() {
-	cout << "\033[1;36m------------------------------------\033[0m" << endl;
+	cout << "\033[1;36m--------------------------------------\033[0m" << endl;
 }
 
 // Print a number in screen

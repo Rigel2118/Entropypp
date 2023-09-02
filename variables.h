@@ -1,7 +1,7 @@
 #ifndef VARIABLES_H_INCLUDED
 #define VARIABLES_H_INCLUDED
 #include <vector>
-
+#include <cstdint>
 using namespace std;
 
 // Setup
