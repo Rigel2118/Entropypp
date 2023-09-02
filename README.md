@@ -13,7 +13,7 @@ a) You can directly download the binary for Linux and run it
 
 b) If you want to build the project, just run in a terminal
 
-`g++ -o Entropy++ main.cpp`
+`g++ -O3 -o Entropy++ main.cpp`
 
 c) Or you can add the project to your Code::Blocks workspace and compile it from there.
 
