@@ -16,7 +16,7 @@ int main() {
     // Splash screen
     line();
     cout << "\033[1;32mEntropy++ v0.1.1 alpha\033[0m" << endl;
-    cout << "Up to 16 digits (for now)!" << endl;
+    cout << "Up to 18 digits (for now)!" << endl;
     line();
 
     // Prompt
